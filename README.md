@@ -17,4 +17,4 @@ Adding new baskerville file and applied my first CSS styling.
 
 History of Type 
 ===============
-[Version1](https://caoimhegreene.github.io/john_baskerville/baskerville-one.html)
+[Version1](https://caoimhegreene.github.io/john_baskerville/history-one.html)
