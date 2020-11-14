@@ -20,5 +20,5 @@ History of Type
 [Version1](https://caoimhegreene.github.io/john_baskerville/history-one.html)
 Marking up some plain text with HTML5.
 
-[Version2](https://caoimhegreene.github.io/john_baskerville/history-one.html)
+[Version2](https://caoimhegreene.github.io/john_baskerville/history-two.html)
 Adding CSS styling,nav and links to second version.
