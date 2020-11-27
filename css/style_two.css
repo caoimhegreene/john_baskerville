@@ -10,10 +10,12 @@
 /*----- MAIN STYLING -----*/
 body {
     width: 80%;
-    max-width: 700px;
+    max-width: 760px;
     margin: auto;
     background: #FFFFFF;
     color: #333;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Libre Baskerville', serif;
 }
 
 /*----- TYPOGRAPHY -----*/
@@ -28,10 +30,14 @@ p, blockquote {
     line-height: 1.4em;
 }
 
+h1, h2, nav, blockquote, footer{
+    font-family: 'Libre Baskerville', serif;
+}
+
 h1 {
     font-size: 3.827em;
-    margin-top: 2em;
-   
+    margin-top: 3em;
+    margin-bottom: 0.1em;
 }
 
 h2 {
@@ -41,7 +47,7 @@ h2 {
 
 blockquote {
     font-size: 1.414em;
-    color:coral;
+    color:#BEE6FD;
     hanging-punctuation: first;
     text-indent: -0.42em;
 }
@@ -52,19 +58,40 @@ blockquote cite {
     
 }
 
+p, cite{font-family: 'Lato', sans-serif;}
+
 header h2 {
     font-style: italic;
-    margin-top: 0;
-    margin-bottom: 1.5;   
+    margin-top: 0.3em;
+    margin-bottom: 1.52em   
 }
 
 header p {
     font-size: 1.3em;
+    font-family: 'Baskerville', serif;
 }
+
+hr{
+    margin-top: 5em;
+    height: 1px;
+    background:deepskyblue;
+    color:deepskyblue;
+    border: 0 none;
+}
+
+
+.leader{
+    
+    text-transform: uppercase;
+    color:deepskyblue;
+    font-variant-numeric: oldstyle-nums;
+}
+
+
 
 /*---- STYLING LINKS ----*/
 a {
-    color:deepskyblue;
+    color: darkblue;
     text-decoration: none;
 }
 a:hover {
@@ -97,14 +124,19 @@ nav ul li {
 }
 
 nav a {
-    color:aliceblue;
+    color: #fdfdfd
 }
 
+nav a:visted {
+    color:#fdfdfd
+}
 nav a:hover {
     border-bottom: none;
-    color:deepskyblue;
+    color:aliceblue;
     transition: all 0.3s ease-in-out;
 }
+
+
 
 
 
