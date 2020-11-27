@@ -28,3 +28,6 @@ Marking up some plain text with HTML5.
 
 [Version2](https://caoimhegreene.github.io/john_baskerville/history-two.html)
 Adding CSS styling,nav and links to second version.
+
+[Version3](https://caoimhegreene.github.io/john_baskerville/history-three.html)
+Added Google fonts.
