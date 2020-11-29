@@ -16,8 +16,7 @@ Added new baskerville file with web typography.
 *23 November 2020*
 Added new baskerville file with a table and images.
 
-
-
+[CSS Exercise](https://caoimhegreene.github.io/john_baskerville/exercss.html)
 
 
 
@@ -34,3 +33,4 @@ Added Google fonts.
 
 [Version3](https://caoimhegreene.github.io/john_baskerville/history-four.html)
 Added images.
+
