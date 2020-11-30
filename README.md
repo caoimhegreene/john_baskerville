@@ -32,5 +32,5 @@ Adding CSS styling,nav and links to second version.
 Added Google fonts.
 
 [Version4](https://caoimhegreene.github.io/john_baskerville/history-four.html)
-Added images.
+Added images and a table.
 
